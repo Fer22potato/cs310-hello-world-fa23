@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Fernanda Arroyo
  */
 
 public class Class2 {
